@@ -1,4 +1,8 @@
-My name is David Åsberg and I am currently studying Computer Science at KTH in Stockholm. 
+### Hi, I'm David!
+
+- 📖 I'm currently studying Computer Science (Masters) at KTH in Stockholm
+- 🦀 Learning Rust 
+- ❤️ I love graphics programming and game development
 
 <!---
 davidasberg/davidasberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
