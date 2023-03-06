@@ -1,7 +1,7 @@
 ### Hi, I'm David!
 
 - I'm currently studying Computer Science (Masters) at KTH in Stockholm
-- 🦀 Learning Rust 
+- Learning Rust 
 - I love graphics programming and game development
 
 <!---
